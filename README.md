@@ -1,5 +1,7 @@
 # FA205_Workshop_1
-In this workshop I learned about variables, for loops, and functions. I then use this knowledge to make a short clip of some ghosts popping up on the screen. 
+In this workshop, I learned about variables, for loops, and functions. I then use this knowledge to make a short clip of some ghosts popping up on the screen.
+
+URL https://marisky0.github.io/FA205_Workshop_1/
 
 ## Notes 
 
