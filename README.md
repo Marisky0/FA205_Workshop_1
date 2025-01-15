@@ -2,10 +2,13 @@
 In this workshop I learned about variables, for loops, and functions. I then use this knowledge to make a short clip of some ghosts popping up on the screen. 
 
 ## Notes 
+
 ### Variables
 <img width="654" alt="Screenshot 2025-01-16 at 10 23 47 AM" src="https://github.com/user-attachments/assets/c50f5bb6-c7f4-416d-830f-05b66d47037c" />
+
 ### For loops
 <img width="708" alt="Screenshot 2025-01-16 at 10 20 14 AM" src="https://github.com/user-attachments/assets/6de0b882-f126-45fd-814a-50dba8ac94b1" />
+
 ### Functions 
 <img width="682" alt="Screenshot 2025-01-16 at 10 21 24 AM" src="https://github.com/user-attachments/assets/167b0ff1-b91c-4059-aaf0-fc1c89150774" />
 
